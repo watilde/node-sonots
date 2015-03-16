@@ -13,7 +13,7 @@
     "sonots"
   ],
   "author": "Daijiro Wachi",
-  "license": "MIT",
+  "license": "Sonots Public License",
   "dependencies": {
     "picture-tube": "0.0.4"
   }
