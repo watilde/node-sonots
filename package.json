@@ -1,7 +1,7 @@
 {
-  "name": "sonots-san",
+  "name": "sonots",
   "version": "0.0.1",
-  "description": "A most truly sonots-san",
+  "description": "A most truly sonots",
   "main": "index.js",
   "bin": {
     "sonots-san": "index.js"
