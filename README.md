@@ -10,3 +10,6 @@ $ npm install -g sonots
 ```
 $ sonots
 ```
+
+## Preview
+![ss](img/ss.png)
